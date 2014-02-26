@@ -1,3 +1,7 @@
+.container{
+	padding:50px;
+}
+
 /*typography*/
 h2{
 	color:orange;
@@ -15,7 +19,9 @@ h5{
 
 /*Colors*/
 .color-1,
-.color-2{
+.color-2,
+.color-3,
+.color-4{
 	border: 2px solid #000;
 	float:left;
 	margin:10px;
@@ -29,6 +35,14 @@ h5{
 
 .color-2{
 	background: green;
+}
+
+.color-3{
+	background: red;
+}
+
+.color-4{
+	background: lightgrey;
 }
 
 /* Diagnostic Styling */
